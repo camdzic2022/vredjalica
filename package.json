@@ -1,0 +1,13 @@
+{
+  "name": "vredjalica",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {},
+  "author": "camdzic",
+  "license": "ISC",
+  "dependencies": {
+    "node-fetch": "^2.6.1",
+    "ws": "^8.8.1"
+  }
+}
