@@ -138,6 +138,7 @@ function sendmsg(
   });
 }
 
+
 function regexvrijedjanja(elem) {
   const regex = /(?<=<br \/>\n)(.*)(?=<\/p>)/gm;
   let m;
